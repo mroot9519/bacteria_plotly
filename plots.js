@@ -17,7 +17,6 @@ function init() {
 }
 
 
-
 init();
 
 function buildMetadata(sample) {
